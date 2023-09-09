@@ -1,2 +1,2 @@
 # demo-repo
-for trying out git
+for trying out different command in git
